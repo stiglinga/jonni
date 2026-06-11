@@ -1,0 +1,15 @@
+{
+  "type": "micro",
+  "wake_word": "Jonni",
+  "author": "custom",
+  "website": "",
+  "model": "/config/jonni.tflite",
+  "trained_languages": ["no"],
+  "version": 2,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "feature_step_size": 10,
+    "sliding_window_size": 5,
+    "tensor_arena_size": 22860
+  }
+}
