@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Jonni",
+  "wake_word": "Hey Jonni",
   "author": "custom",
   "website": "",
   "model": "jonni.tflite",
