@@ -1,8 +1,8 @@
 {
   "type": "micro",
   "wake_word": "Hey Jonni",
-  "author": "custom",
-  "website": "",
+  "author": "Stig Linga",
+  "website": "https://github.com/stiglinga",
   "model": "jonni.tflite",
   "trained_languages": ["no"],
   "version": 2,
