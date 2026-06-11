@@ -3,7 +3,7 @@
   "wake_word": "Jonni",
   "author": "custom",
   "website": "",
-  "model": "/config/jonni.tflite",
+  "model": "jonni.tflite",
   "trained_languages": ["no"],
   "version": 2,
   "micro": {
